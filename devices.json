@@ -9,6 +9,11 @@
             "username": "Vincre",
             "password": "abcde",
             "device_id": "android-yyyyyyyyyyyy"
+        },
+        {
+            "username": "test",
+            "password": "test123",
+            "device_id": ""
         }
     ]
 }
