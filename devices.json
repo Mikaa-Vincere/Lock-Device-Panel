@@ -1,14 +1,19 @@
 {
-  "users": [
-    {
-      "username": "Mikaa",
-      "password": "12345",
-      "device_id": "android-xxxxxxxxxxxx"
-    },
-    {
-      "username": "Vincre",
-      "password": "abcde",
-      "device_id": "android-yyyyyyyyyyyy"
-    }
-  ]
+    "users": [
+        {
+            "username": "Mikaa",
+            "password": "12345",
+            "device_id": "android-xxxxxxxxxxxx"
+        },
+        {
+            "username": "Vincre",
+            "password": "abcde",
+            "device_id": "android-yyyyyyyyyyyy"
+        },
+        {
+            "username": "test",
+            "password": "test123",
+            "device_id": ""
+        }
+    ]
 }
