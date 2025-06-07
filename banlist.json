@@ -1,6 +1,8 @@
 {
-  "banned_devices": [
-    "android-xxxxxxxxxxxx",
-    "android-zzzzzzzzzzzz"
+  "banned": [
+    {
+      "username": "Mikaa",
+      "device_id": "android-xxxx"
+    }
   ]
 }
