@@ -1,0 +1,10 @@
+[
+  {
+    "package": "com.warzel.client",
+    "name": "Warzel App"
+  },
+  {
+    "package": "com.contoso.app",
+    "name": "Contoh App"
+  }
+]
